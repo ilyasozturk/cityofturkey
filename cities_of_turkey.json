@@ -2,7 +2,6 @@
   {
     "citycode": 1,
     "cityname": "Adana"
- 
   },
   {
     "citycode": 2,
@@ -11,7 +10,6 @@
   {
     "citycode": 3,
     "cityname": "Afyonkarahisar"
-
   },
   {
     "citycode": 4,
@@ -323,6 +321,6 @@
   },
   {
     "citycode": 81,
-    "cityname": "Düzce",
+    "cityname": "Düzce"
   }
 ]
