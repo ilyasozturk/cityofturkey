@@ -1,0 +1,328 @@
+[
+  {
+    "countryCode": 1,
+    "name": "Adana",
+ 
+  },
+  {
+    "countryCode": 2,
+    "name": "Adıyaman",
+  },
+  {
+    "countryCode": 3,
+    "name": "Afyonkarahisar",
+
+  },
+  {
+    "countryCode": 4,
+    "name": "Ağrı",
+  },
+  {
+    "countryCode": 5,
+    "name": "Amasya",
+  },
+  {
+    "countryCode": 6,
+    "name": "Ankara",
+  },
+  {
+    "countryCode": 7,
+    "name": "Antalya",
+  },
+  {
+    "countryCode": 8,
+    "name": "Artvin",
+  },
+  {
+    "countryCode": 9,
+    "name": "Aydın",
+  },
+  {
+    "countryCode": 10,
+    "name": "Balıkesir",
+  },
+  {
+    "countryCode": 11,
+    "name": "Bilecik",
+  },
+  {
+    "countryCode": 12,
+    "name": "Bingöl",
+  },
+  {
+    "countryCode": 13,
+    "name": "Bitlis",
+  },
+  {
+    "countryCode": 14,
+    "name": "Bolu",
+  },
+  {
+    "countryCode": 15,
+    "name": "Burdur",
+  },
+  {
+    "countryCode": 16,
+    "name": "Bursa",
+  },
+  {
+    "countryCode": 17,
+    "name": "Çanakkale",
+  },
+  {
+    "countryCode": 18,
+    "name": "Çankırı",
+  },
+  {
+    "countryCode": 19,
+    "name": "Çorum",
+  },
+  {
+    "countryCode": 20,
+    "name": "Denizli",
+  },
+  {
+    "countryCode": 21,
+    "name": "Diyarbakır",
+  },
+  {
+    "countryCode": 22,
+    "name": "Edirne",
+  },
+  {
+    "countryCode": 23,
+    "name": "Elâzığ",
+  },
+  {
+    "countryCode": 24,
+    "name": "Erzincan",
+  },
+  {
+    "countryCode": 25,
+    "name": "Erzurum",
+  },
+  {
+    "countryCode": 26,
+    "name": "Eskişehir",
+  },
+  {
+    "countryCode": 27,
+    "name": "Gaziantep",
+  },
+  {
+    "countryCode": 28,
+    "name": "Giresun",
+  },
+  {
+    "countryCode": 29,
+    "name": "Gümüşhane",
+  },
+  {
+    "countryCode": 30,
+    "name": "Hakkâri",
+  },
+  {
+    "countryCode": 31,
+    "name": "Hatay",
+  },
+  {
+    "countryCode": 32,
+    "name": "Isparta",
+  },
+  {
+    "countryCode": 33,
+    "name": "Mersin",
+  },
+  {
+    "countryCode": 34,
+    "name": "İstanbul",
+  },
+  {
+    "countryCode": 35,
+    "name": "İzmir",
+  },
+  {
+    "countryCode": 36,
+    "name": "Kars",
+  },
+  {
+    "countryCode": 37,
+    "name": "Kastamonu",
+  },
+  {
+    "countryCode": 38,
+    "name": "Kayseri",
+  },
+  {
+    "countryCode": 39,
+    "name": "Kırklareli",
+  },
+  {
+    "countryCode": 40,
+    "name": "Kırşehir",
+  },
+  {
+    "countryCode": 41,
+    "name": "Kocaeli",
+  },
+  {
+    "countryCode": 42,
+    "name": "Konya",
+  },
+  {
+    "countryCode": 43,
+    "name": "Kütahya",
+  },
+  {
+    "countryCode": 44,
+    "name": "Malatya",
+  },
+  {
+    "countryCode": 45,
+    "name": "Manisa",
+  },
+  {
+    "countryCode": 46,
+    "name": "Kahramanmaraş",
+  },
+  {
+    "countryCode": 47,
+    "name": "Mardin",
+  },
+  {
+    "countryCode": 48,
+    "name": "Muğla",
+  },
+  {
+    "countryCode": 49,
+    "name": "Muş",
+  },
+  {
+    "countryCode": 50,
+    "name": "Nevşehir",
+  },
+  {
+    "countryCode": 51,
+    "name": "Niğde",
+  },
+  {
+    "countryCode": 52,
+    "name": "Ordu",
+  },
+  {
+    "countryCode": 53,
+    "name": "Rize",
+  },
+  {
+    "countryCode": 54,
+    "name": "Sakarya",
+  },
+  {
+    "countryCode": 55,
+    "name": "Samsun",
+  },
+  {
+    "countryCode": 56,
+    "name": "Siirt",
+  },
+  {
+    "countryCode": 57,
+    "name": "Sinop",
+  },
+  {
+    "countryCode": 58,
+    "name": "Sivas",
+  },
+  {
+    "countryCode": 59,
+    "name": "Tekirdağ",
+  },
+  {
+    "countryCode": 60,
+    "name": "Tokat",
+  },
+  {
+    "countryCode": 61,
+    "name": "Trabzon",
+  },
+  {
+    "countryCode": 62,
+    "name": "Tunceli",
+  },
+  {
+    "countryCode": 63,
+    "name": "Şanlıurfa",
+  },
+  {
+    "countryCode": 64,
+    "name": "Uşak",
+  },
+  {
+    "countryCode": 65,
+    "name": "Van",
+  },
+  {
+    "countryCode": 66,
+    "name": "Yozgat",
+  },
+  {
+    "countryCode": 67,
+    "name": "Zonguldak",
+  },
+  {
+    "countryCode": 68,
+    "name": "Aksaray",
+  },
+  {
+    "countryCode": 69,
+    "name": "Bayburt",
+  },
+  {
+    "countryCode": 70,
+    "name": "Karaman",
+  },
+  {
+    "countryCode": 71,
+    "name": "Kırıkkale",
+  },
+  {
+    "countryCode": 72,
+    "name": "Batman",
+  },
+  {
+    "countryCode": 73,
+    "name": "Şırnak",
+  },
+  {
+    "countryCode": 74,
+    "name": "Bartın",
+  },
+  {
+    "countryCode": 75,
+    "name": "Ardahan",
+  },
+  {
+    "countryCode": 76,
+    "name": "Iğdır",
+  },
+  {
+    "countryCode": 77,
+    "name": "Yalova",
+  },
+  {
+    "countryCode": 78,
+    "name": "Karabük",
+  },
+  {
+    "countryCode": 79,
+    "name": "Kilis",
+  },
+  {
+    "countryCode": 80,
+    "name": "Osmaniye",
+  },
+  {
+    "countryCode": 81,
+    "name": "Düzce",
+  }
+]
