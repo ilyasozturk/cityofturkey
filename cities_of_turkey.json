@@ -1,113 +1,113 @@
 [
   {
     "countryCode": 1,
-    "name": "Adana",
+    "countyName": "Adana",
  
   },
   {
     "countryCode": 2,
-    "name": "Adıyaman",
+    "countyName": "Adıyaman",
   },
   {
     "countryCode": 3,
-    "name": "Afyonkarahisar",
+    "countyName": "Afyonkarahisar",
 
   },
   {
     "countryCode": 4,
-    "name": "Ağrı",
+    "countyName": "Ağrı",
   },
   {
     "countryCode": 5,
-    "name": "Amasya",
+    "countyName": "Amasya",
   },
   {
     "countryCode": 6,
-    "name": "Ankara",
+    "ncountyNameame": "Ankara",
   },
   {
     "countryCode": 7,
-    "name": "Antalya",
+    "countyName": "Antalya",
   },
   {
     "countryCode": 8,
-    "name": "Artvin",
+    "countyName": "Artvin",
   },
   {
     "countryCode": 9,
-    "name": "Aydın",
+    "countyName": "Aydın",
   },
   {
     "countryCode": 10,
-    "name": "Balıkesir",
+    "countyName": "Balıkesir",
   },
   {
     "countryCode": 11,
-    "name": "Bilecik",
+    "countyName": "Bilecik",
   },
   {
     "countryCode": 12,
-    "name": "Bingöl",
+    "countyName": "Bingöl",
   },
   {
     "countryCode": 13,
-    "name": "Bitlis",
+    "countyName": "Bitlis",
   },
   {
     "countryCode": 14,
-    "name": "Bolu",
+    "countyName": "Bolu",
   },
   {
     "countryCode": 15,
-    "name": "Burdur",
+    "countyName": "Burdur",
   },
   {
     "countryCode": 16,
-    "name": "Bursa",
+    "countyName": "Bursa",
   },
   {
     "countryCode": 17,
-    "name": "Çanakkale",
+    "countyName": "Çanakkale",
   },
   {
     "countryCode": 18,
-    "name": "Çankırı",
+    "countyName": "Çankırı",
   },
   {
     "countryCode": 19,
-    "name": "Çorum",
+    "countyName": "Çorum",
   },
   {
     "countryCode": 20,
-    "name": "Denizli",
+    "countyName": "Denizli",
   },
   {
     "countryCode": 21,
-    "name": "Diyarbakır",
+    "countyName": "Diyarbakır",
   },
   {
     "countryCode": 22,
-    "name": "Edirne",
+    "countyName": "Edirne",
   },
   {
     "countryCode": 23,
-    "name": "Elâzığ",
+    "countyName": "Elâzığ",
   },
   {
     "countryCode": 24,
-    "name": "Erzincan",
+    "countyName": "Erzincan",
   },
   {
     "countryCode": 25,
-    "name": "Erzurum",
+    "countyName": "Erzurum",
   },
   {
     "countryCode": 26,
-    "name": "Eskişehir",
+    "countyName": "Eskişehir",
   },
   {
     "countryCode": 27,
-    "name": "Gaziantep",
+    "countyName": "Gaziantep",
   },
   {
     "countryCode": 28,
@@ -119,210 +119,210 @@
   },
   {
     "countryCode": 30,
-    "name": "Hakkâri",
+    "countyName": "Hakkâri",
   },
   {
     "countryCode": 31,
-    "name": "Hatay",
+    "countyName": "Hatay",
   },
   {
     "countryCode": 32,
-    "name": "Isparta",
+    "countyName": "Isparta",
   },
   {
     "countryCode": 33,
-    "name": "Mersin",
+    "countyName": "Mersin",
   },
   {
     "countryCode": 34,
-    "name": "İstanbul",
+    "countyName": "İstanbul",
   },
   {
     "countryCode": 35,
-    "name": "İzmir",
+    "countyName": "İzmir",
   },
   {
     "countryCode": 36,
-    "name": "Kars",
+    "countyName": "Kars",
   },
   {
     "countryCode": 37,
-    "name": "Kastamonu",
+    "countyName": "Kastamonu",
   },
   {
     "countryCode": 38,
-    "name": "Kayseri",
+    "countyName": "Kayseri",
   },
   {
     "countryCode": 39,
-    "name": "Kırklareli",
+    "countyName": "Kırklareli",
   },
   {
     "countryCode": 40,
-    "name": "Kırşehir",
+    "countyName": "Kırşehir",
   },
   {
     "countryCode": 41,
-    "name": "Kocaeli",
+    "countyName": "Kocaeli",
   },
   {
     "countryCode": 42,
-    "name": "Konya",
+    "countyName": "Konya",
   },
   {
     "countryCode": 43,
-    "name": "Kütahya",
+    "countyName": "Kütahya",
   },
   {
     "countryCode": 44,
-    "name": "Malatya",
+    "countyName": "Malatya",
   },
   {
     "countryCode": 45,
-    "name": "Manisa",
+    "countyName": "Manisa",
   },
   {
     "countryCode": 46,
-    "name": "Kahramanmaraş",
+    "countyName": "Kahramanmaraş",
   },
   {
     "countryCode": 47,
-    "name": "Mardin",
+    "countyName": "Mardin",
   },
   {
     "countryCode": 48,
-    "name": "Muğla",
+    "countyName": "Muğla",
   },
   {
     "countryCode": 49,
-    "name": "Muş",
+    "countyName": "Muş",
   },
   {
     "countryCode": 50,
-    "name": "Nevşehir",
+    "countyName": "Nevşehir",
   },
   {
     "countryCode": 51,
-    "name": "Niğde",
+    "countyName": "Niğde",
   },
   {
     "countryCode": 52,
-    "name": "Ordu",
+    "countyName": "Ordu",
   },
   {
     "countryCode": 53,
-    "name": "Rize",
+    "countyName": "Rize",
   },
   {
     "countryCode": 54,
-    "name": "Sakarya",
+    "countyName": "Sakarya",
   },
   {
     "countryCode": 55,
-    "name": "Samsun",
+    "countyName": "Samsun",
   },
   {
     "countryCode": 56,
-    "name": "Siirt",
+    "countyName": "Siirt",
   },
   {
     "countryCode": 57,
-    "name": "Sinop",
+    "countyName": "Sinop",
   },
   {
     "countryCode": 58,
-    "name": "Sivas",
+    "countyName": "Sivas",
   },
   {
     "countryCode": 59,
-    "name": "Tekirdağ",
+    "countyName": "Tekirdağ",
   },
   {
     "countryCode": 60,
-    "name": "Tokat",
+    "countyName": "Tokat",
   },
   {
     "countryCode": 61,
-    "name": "Trabzon",
+    "countyName": "Trabzon",
   },
   {
     "countryCode": 62,
-    "name": "Tunceli",
+    "countyName": "Tunceli",
   },
   {
     "countryCode": 63,
-    "name": "Şanlıurfa",
+    "countyName": "Şanlıurfa",
   },
   {
     "countryCode": 64,
-    "name": "Uşak",
+    "countyName": "Uşak",
   },
   {
     "countryCode": 65,
-    "name": "Van",
+    "countyName": "Van",
   },
   {
     "countryCode": 66,
-    "name": "Yozgat",
+    "countyName": "Yozgat",
   },
   {
     "countryCode": 67,
-    "name": "Zonguldak",
+    "countyName": "Zonguldak",
   },
   {
     "countryCode": 68,
-    "name": "Aksaray",
+    "countyName": "Aksaray",
   },
   {
     "countryCode": 69,
-    "name": "Bayburt",
+    "countyName": "Bayburt",
   },
   {
     "countryCode": 70,
-    "name": "Karaman",
+    "countyName": "Karaman",
   },
   {
     "countryCode": 71,
-    "name": "Kırıkkale",
+    "countyName": "Kırıkkale",
   },
   {
     "countryCode": 72,
-    "name": "Batman",
+    "countyName": "Batman",
   },
   {
     "countryCode": 73,
-    "name": "Şırnak",
+    "countyName": "Şırnak",
   },
   {
     "countryCode": 74,
-    "name": "Bartın",
+    "countyName": "Bartın",
   },
   {
     "countryCode": 75,
-    "name": "Ardahan",
+    "countyName": "Ardahan",
   },
   {
     "countryCode": 76,
-    "name": "Iğdır",
+    "countyName": "Iğdır",
   },
   {
     "countryCode": 77,
-    "name": "Yalova",
+    "countyName": "Yalova",
   },
   {
     "countryCode": 78,
-    "name": "Karabük",
+    "countyName": "Karabük",
   },
   {
     "countryCode": 79,
-    "name": "Kilis",
+    "countyName": "Kilis",
   },
   {
     "countryCode": 80,
-    "name": "Osmaniye",
+    "countyName": "Osmaniye",
   },
   {
     "countryCode": 81,
-    "name": "Düzce",
+    "countyName": "Düzce",
   }
 ]
